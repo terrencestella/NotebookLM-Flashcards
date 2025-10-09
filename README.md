@@ -37,7 +37,6 @@ The muscular middle layer of the uterine wall, whose contractions help expel the
  * NotebookLM Flashcard Extractor (Console Output Only)
  *
  * This version extracts the data and PRINTS IT to the console.
- * It removes the download function to bypass browser security blocks.
  * Made by ItsKarev - 10/09/2025
  */
 
