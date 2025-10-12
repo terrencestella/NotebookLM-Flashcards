@@ -14,6 +14,9 @@ Happy studying!
 7. Once you see "✅ EXTRACTION SUCCESSFUL! ... cards extracted.", find the very big text box that will hold all of the flashcard data. At the very end of that message you will see a "copy" button, _CLICK IT_ :)
 8. Paste it in a text document to save it.
 
+Still confused? Watch this youtube video! 
+https://youtu.be/vkjNwI6udoE
+
 ## Understanding the exported text
 Below is an example of an exported flash card. To the LEFT of the "-" is the front of the flash card, to the RIGHT of the "-" is the rear / hidden part of the flash card.    
 You can paste this text document into your flashcard software like Quizlet
