@@ -56,7 +56,7 @@ async function extractFlashcards() {
     const CARD_CLICK_AREA_SELECTOR = '#flashcard';
     const QUESTION_SELECTOR = '.card-front-content > .card-text';
     const ANSWER_SELECTOR = '.card-back-content > .card-text';
-    const NEXT_CARD_BUTTON_SELECTOR = 'button[aria-label="Next card"]'; 
+    const NEXT_CARD_BUTTON_SELECTOR = 'button[aria-label="Volgende kaart"]'; 
     const CARD_COUNT_ELEMENTS = document.querySelectorAll('span'); 
 
     let totalCards = 0;
